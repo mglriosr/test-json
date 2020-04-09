@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "username": "mglriosr", "nombres": "Miguel", "apellidos": "Rios", "correo": "mgl.rios.r@gmail.com", "tel": "0997293167", "ubicacion": "Quito" },
+    { "id": 2, "username": "mglriosr", "nombres": "Miguel", "apellidos": "Rios", "correo": "mgl.rios.r@gmail.com", "tel": "0997293167", "ubicacion": "Quito" },
+    { "id": 3, "username": "mglriosr", "nombres": "Miguel", "apellidos": "Rios", "correo": "mgl.rios.r@gmail.com", "tel": "0997293167", "ubicacion": "Quito" },
+    { "id": 4, "username": "mglriosr", "nombres": "Miguel", "apellidos": "Rios", "correo": "mgl.rios.r@gmail.com", "tel": "0997293167", "ubicacion": "Quito" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
